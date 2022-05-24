@@ -1,0 +1,5 @@
+baseURL = 'https://kosukexx.github.io/yokohama/'
+languageCode = 'en-us'
+title = 'kosukexx'
+theme= 'hugo-theme-shell'
+publishDir = "docs"
