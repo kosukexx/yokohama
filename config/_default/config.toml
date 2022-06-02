@@ -91,7 +91,7 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "secrets"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["about_me", "/post/profile"],
+    ["about_me", "/content/profile"],
     ["blog", "/posts/blog"],
     ["github", "https://github.com/kosukexx"],
   ]
